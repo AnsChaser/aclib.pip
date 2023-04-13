@@ -1,0 +1,9 @@
+/venv*/
+/build/
+/dist/
+/tests/
+
+*.egg-info
+.idea
+__pycache__
+test.py
